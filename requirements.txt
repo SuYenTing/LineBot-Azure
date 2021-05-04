@@ -1,0 +1,10 @@
+gunicorn
+flask
+line-bot-sdk
+mysql-connector-python
+requests
+confluent-kafka
+imgur-python
+Pillow
+azure-cognitiveservices-vision-face
+azure-cognitiveservices-vision-computervision
