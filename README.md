@@ -20,17 +20,21 @@
 ### 2. 光學字元辨識
 
 * 範例一
+
 ![](https://i.imgur.com/Mv0JKzI.png)
 
 * 範例二
+
 ![](https://i.imgur.com/tK4rEl4.png)
 
 ### 3. 照片描述
 
 * 範例一
+
 ![](https://i.imgur.com/c4XcrHa.png)
 
 * 範例二
+
 ![](https://i.imgur.com/wiWXcU4.png)
 
 
